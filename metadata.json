@@ -1,0 +1,5 @@
+{
+  "name": "Make N - Math Puzzle",
+  "description": "A brain-training arcade puzzle where you combine 4 numbers to reach a target number. Features Time Attack, Practice, and Daily Challenge modes.",
+  "requestFramePermissions": []
+}
